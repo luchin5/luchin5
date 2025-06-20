@@ -26,7 +26,7 @@ Me gustaría seguir aprendiendo y creciendo profesionalmente en roles donde pued
 
 📫 **Contacto:**
 
-- LinkedIn: [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/luis-alberto-gonzales-usca-795083363/)
+- LinkedIn: https://www.linkedin.com/in/luis-alberto-gonzales-usca-795083363
 - Correo: luchin5luchin@gmail.com
 
 ---
