@@ -20,6 +20,8 @@ Me gustaría seguir aprendiendo y creciendo profesionalmente en roles donde pued
 - 🐘 PostgreSQL 
 - ☁️ Git / Github
 - 🐳 Docker básico
+- 🌊 Digital Ocean
+- 🐧 Linux básico para servidores
 
 ---
 
