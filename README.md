@@ -17,10 +17,9 @@ Me gustaría seguir aprendiendo y creciendo profesionalmente en roles donde pued
 - 💙 Flutter / Dart
 - 🖥️ Node.js / Express
 - 🔧 Firebase / Firestore / Firebase Auth
-- 🐘 PostgreSQL / MySQL
-- ☁️ GitHub Actions / Render / Railway
+- 🐘 PostgreSQL 
+- ☁️ Git / Github
 - 🐳 Docker básico
-- 🔍 Git / GitHub
 
 ---
 
